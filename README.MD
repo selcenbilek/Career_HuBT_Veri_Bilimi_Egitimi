@@ -65,3 +65,8 @@ pandas: Veri analiz ve manipülasyonu için.
 matplotlib: Veri görselleştirme için.
 sklearn: Makine öğrenimi algoritmaları için.
 
+Çalışmanın görseline erişmek isterseniz:
+
+https://github.com/selcenbilek/Career-_HuBT-Veri-_Bilimi-_E-itimi/blob/main/Lineer%20Regresyon%20Modeli.png
+
+
