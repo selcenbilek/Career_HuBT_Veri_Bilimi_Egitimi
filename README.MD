@@ -1,5 +1,5 @@
 
-BT Akaaemi/ Career HuBT – Veri Bilimi Eğitimi Ders Notlarım
+BT AKADEMİ / Career HuBT – Veri Bilimi Eğitimi Ders Notlarım / 18.10.2024
 
 # PyPI ile Veri Setleri Kullanımı
 
