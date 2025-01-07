@@ -1,4 +1,6 @@
 
+BT Akaaemi/ Career HuBT – Veri Bilimi Eğitimi Ders Notlarım
+
 # PyPI ile Veri Setleri Kullanımı
 
 1.PyPI'den Veri Setlerini Bulmak ve Kurmak
