@@ -2,23 +2,29 @@
 # PyPI ile Veri Setleri Kullanımı
 
 1.PyPI'den Veri Setlerini Bulmak ve Kurmak
+
 [PyPI](https://pypi.org/) (Python Package Index) sitesine gidin.
+
 Arama çubuğuna `"data sets"` yazın ve `datasets 3.0.1` paketini bulun.
 Bu paketi kurmak için terminal veya komut satırında şu komutu kullanın:
+
 *pip install datasets
 
 2.Değişken Tanımlama ve Atama:
+
 Örnek
 İsim adlı bir değişkene "Selcen" değerini atayın:
 İsim = "Selcen"
 
 3.Değişkeni Güncelleme
+
 Bu değişkene "Ali" değerini atayarak değiştirebilirsiniz:
 İsim = "Ali"
 
 
 # Koleksiyonlar (collections) Veri Koleksiyonları
 ## Listeler (List) / Array / Dizi / Series / Katar
+
 - `meyveler` listesi:
   ```python
   meyveler = ["elma", "armut", "muz", "kivi", "çilek", "çilek"]
@@ -27,12 +33,14 @@ Bu değişkene "Ali" değerini atayarak değiştirebilirsiniz:
 sinif_isim_listeleri = [["ali", "ayşe"], ["mehmet", "gizem"]]
 *Liste uzunluğunu hesaplama:
 len(meyveler)
+
 *Kümeler (Set)
 meyve_kumesi = {"elma", "armut", "muz", "kivi", "çilek", "çilek"}
 *Sözlük Yapısı (Dictionary, Map, Hashmap)
 meyve_sozluk = {"elma": "ingilizcesi apple olan kışlık bir meyve", "armut": "ingilizcesi pear olan yazlık bir meyve"}
 
 ###Kümeler (Set) ve Özellikleri
+
 Tanım: Küme (set) veri yapısı, bir koleksiyonun benzersiz (yani tekrarsız) elemanlardan oluşmasını sağlar. Kümelerdeki elemanların sırası önemli değildir ve her eleman sadece bir kez yer alır.
 Tekrarsız Elemanlar: {"elma", "armut", "muz", "kivi", "çilek", "çilek"} kümesinde iki adet "çilek" olduğu halde, kümede yalnızca bir kez "çilek" bulunur. Bu nedenle, kümeye eklediğimiz iki "çilek" değeri yalnızca bir tane "çilek" olarak saklanır.
 Çıkış İşlemi: Küme elemanlarını ekledikten sonra, print(meyve_kumesi) komutunu çalıştırdığımızda, {‘armut’, ‘elma’, ‘kivi’, ‘muz’, ‘çilek’} çıktısını görürüz. Bu çıktıda elemanlar sırasız şekilde ve tekrarsız olarak listelenmiştir.
