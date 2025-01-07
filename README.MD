@@ -25,7 +25,7 @@ Bu değişkene "Ali" değerini atayarak değiştirebilirsiniz:
 İsim = "Ali"
 
 
-# Koleksiyonlar (collections) Veri Koleksiyonları
+# Koleksiyonlar (collections)/Veri Koleksiyonları
 ## Listeler (List) / Array / Dizi / Series / Katar
 
 - `meyveler` listesi:
