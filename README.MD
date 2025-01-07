@@ -13,12 +13,15 @@ Bu paketi kurmak için terminal veya komut satırında şu komutu kullanın:
 2.Değişken Tanımlama ve Atama:
 
 Örnek
+
 İsim adlı bir değişkene "Selcen" değerini atayın:
+
 İsim = "Selcen"
 
 3.Değişkeni Güncelleme
 
 Bu değişkene "Ali" değerini atayarak değiştirebilirsiniz:
+
 İsim = "Ali"
 
 
